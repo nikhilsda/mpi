@@ -36,6 +36,12 @@ Execution Time vs Number of Processes
 
 
 
+
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/54a20aaa-d4ce-49b8-8603-add0a96e1f8a" />
+
+
+
+
 **Conclusion**
 This mini project successfully demonstrates the benefits of distributed computing in matrix multiplication using MPI. It provides hands-on experience in partitioning data, coordinating processes, and measuring speedup—all crucial concepts in parallel and high-performance computing.
 
